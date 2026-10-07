@@ -1,0 +1,4 @@
+.build/
+XWipe.app/
+.DS_Store
+*.xcodeproj/xcuserdata/
